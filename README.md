@@ -124,7 +124,7 @@ getFocusedState() : Boolean
 ## Preview
 ![Preview](https://user-images.githubusercontent.com/37071007/106751477-8e9bac00-666c-11eb-9494-cc8b4183687e.gif)
 
-## Other My libraries
+## Other My Libraries
 [DrawView](https://github.com/mtjin/DrawView)
 
 ## License
