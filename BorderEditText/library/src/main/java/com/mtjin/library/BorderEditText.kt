@@ -181,4 +181,6 @@ class BorderEditText(context: Context, attrs: AttributeSet?) :
         mFocusedBorderEditState.mIsFocusedActivated = state
         initShape()
     }
+
+    fun getFocusedState() = mFocusedBorderEditState.mIsFocusedActivated
 }
