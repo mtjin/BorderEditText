@@ -6,6 +6,43 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <com.mtjin.library.BorderEditText
+        android:id="@+id/et_normal"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="EXAMPLE NORMAL EDIT TEXT"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        app:border_background_color="@android:color/holo_orange_light"
+        app:border_corner_radius="32dp"
+        app:border_stroke_color="@android:color/holo_blue_light"
+        app:border_stroke_width="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
 
+    <com.mtjin.library.BorderEditText
+        android:id="@+id/et_has_pressed_state"
+        android:layout_width="300dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:padding="20dp"
+        android:text="HAS FOCUSED STATE EDIT TEXT"
+        android:textColor="@android:color/black"
+        android:textSize="20dp"
+        app:border_focused_activated="true"
+        app:border_focused_background_color="@android:color/holo_green_light"
+        app:border_focused_corner_radius="12dp"
+        app:border_focused_stroke_color="@android:color/holo_blue_bright"
+        app:border_focused_stroke_width="10dp"
+        app:border_stroke_color="@android:color/darker_gray"
+        app:border_stroke_width="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/et_normal" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
