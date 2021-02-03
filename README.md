@@ -115,7 +115,7 @@ setFocusedBorderStrokeWidth(width: Int)
 getFocusedBorderStrokeWidth() : Int
 
 setFocusedBorderStrokeColor(color: String)
-etFocusedBorderStrokeColor() : Int
+getFocusedBorderStrokeColor() : Int
 
 setFocusedState(state: Boolean) 
 getFocusedState() : Boolean
