@@ -68,7 +68,7 @@ dependencies {
         app:border_stroke_width="10dp"/>
 
     <com.mtjin.library.BorderEditText
-        android:id="@+id/et_has_pressed_state"
+        android:id="@+id/et_has_focused_state"
         android:layout_width="300dp"
         android:layout_height="200dp"
         android:layout_marginTop="16dp"
