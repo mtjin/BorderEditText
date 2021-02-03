@@ -39,7 +39,7 @@ dependencies {
 
 * There is also sample code in this repository. (https://github.com/mtjin/BorderEditText/tree/main/BorderEditText/app)
 
-### XML
+### XML Attributes
 ```
 <attr name="border_stroke_color" format="color" />
 <attr name="border_stroke_width" format="dimension" />
@@ -51,7 +51,7 @@ dependencies {
 <attr name="border_focused_background_color" format="color" />
 <attr name="border_focused_activated" format="boolean" />
 ```
-### XML example
+### XML Example
 
 ```
 <com.mtjin.library.BorderEditText
