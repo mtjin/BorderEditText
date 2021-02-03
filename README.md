@@ -121,7 +121,7 @@ setFocusedState(state: Boolean)
 getFocusedState() : Boolean
 ```
 
-##License
+## License
 ```
 MIT License
 
