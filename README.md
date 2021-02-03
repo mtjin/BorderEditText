@@ -1,2 +1,2 @@
-# Android-Color-EditText
+# mtjin-border-edittext-android
 Android library for color edittext
