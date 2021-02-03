@@ -1,4 +1,4 @@
-package com.mtjin.boardedittext
+package com.mtjin.library
 
 import android.content.Context
 import android.graphics.Color
@@ -6,6 +6,7 @@ import android.graphics.drawable.GradientDrawable
 import android.graphics.drawable.StateListDrawable
 import android.util.AttributeSet
 import android.util.StateSet
+import com.mtjin.boardedittext.R
 
 
 class BorderEditText(context: Context, attrs: AttributeSet?) :

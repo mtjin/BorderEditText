@@ -1,4 +1,4 @@
-package com.mtjin.boardedittext
+package com.mtjin.library
 
 import android.graphics.Color
 
