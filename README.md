@@ -6,6 +6,8 @@
 It is an Android Custom EditText Library that allows you to easily set the background color of EditText, the color of the border, the thickness, the radius, and the state when it is focused.
 It can replace the selector and shape of the existing Drawable resource!
 
+[Blog Review](https://youngest-programming.tistory.com/487)
+
 ## Prerequisites
 Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
 
