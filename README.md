@@ -103,7 +103,7 @@ setBorderStrokeColor(color: String)
 getBorderStrokeColor() : Int
 
 
-// Focused State EditText
+// Focused State EditText => you must set border_focused_activated to true for operation.
 
 setFocusedBorderRadius(radius: Float)
 getFocusedBorderRadius() : Float
