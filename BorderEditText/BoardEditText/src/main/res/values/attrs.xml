@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BorderEditText">
+        <attr name="border_stroke_color" format="color" />
+        <attr name="border_stroke_width" format="dimension" />
+        <attr name="border_corner_radius" format="dimension" />
+        <attr name="border_background_color" format="color" />
+        <attr name="border_focused_stroke_color" format="color" />
+        <attr name="border_focused_stroke_width" format="dimension" />
+        <attr name="border_focused_corner_radius" format="dimension" />
+        <attr name="border_focused_background_color" format="color" />
+        <attr name="border_focused_activated" format="boolean" />
+    </declare-styleable>
+</resources>
